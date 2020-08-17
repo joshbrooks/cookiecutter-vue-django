@@ -1,7 +1,8 @@
-from fruit.api.serializers import FruitDefaultSerializer, FruitDetailSerializer
-from fruit.models import Fruit
 from rest_framework import viewsets
 from rest_framework.permissions import SAFE_METHODS, BasePermission, IsAuthenticated
+
+from fruit.api.serializers import FruitDefaultSerializer, FruitDetailSerializer
+from fruit.models import Fruit
 
 
 class ReadOnly(BasePermission):

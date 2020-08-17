@@ -1,4 +1,5 @@
 from django.views.generic import ListView
+
 from fruit.models import Fruit
 
 
