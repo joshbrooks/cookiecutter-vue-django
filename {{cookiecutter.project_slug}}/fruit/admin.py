@@ -1,4 +1,5 @@
 from django.contrib import admin
+
 from fruit.models import Fruit
 
 

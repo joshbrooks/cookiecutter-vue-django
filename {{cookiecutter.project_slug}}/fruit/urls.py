@@ -1,6 +1,7 @@
 from django.urls import path
 from django.views.generic import TemplateView
 {%- if cookiecutter.use_drf == "y" %}
+
 from fruit.views import FruitList
 {%- endif %}
 

@@ -1,5 +1,6 @@
-from fruit.models import Fruit
 from rest_framework import serializers
+
+from fruit.models import Fruit
 
 
 class FruitDefaultSerializer(serializers.HyperlinkedModelSerializer):
