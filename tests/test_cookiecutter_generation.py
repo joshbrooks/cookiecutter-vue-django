@@ -180,7 +180,10 @@ def test_black_passes(cookies, context_override):
 
 @pytest.mark.parametrize(
     ["use_docker", "expected_test_script"],
-    [("n", "pytest"), ("y", "docker-compose -f local.yml run django pytest"),],
+    [
+        ("n", "pytest"),
+        ("y", "docker-compose -f local.yml run django pytest"),
+    ],
 )
 def test_travis_invokes_pytest(cookies, context, use_docker, expected_test_script):
     context.update({"ci_tool": "Travis", "use_docker": use_docker})
@@ -202,7 +205,10 @@ def test_travis_invokes_pytest(cookies, context, use_docker, expected_test_scrip
 
 @pytest.mark.parametrize(
     ["use_docker", "expected_test_script"],
-    [("n", "pytest"), ("y", "docker-compose -f local.yml run django pytest"),],
+    [
+        ("n", "pytest"),
+        ("y", "docker-compose -f local.yml run django pytest"),
+    ],
 )
 def test_gitlab_invokes_flake8_and_pytest(
     cookies, context, use_docker, expected_test_script
