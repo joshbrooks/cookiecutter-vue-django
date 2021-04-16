@@ -25,6 +25,8 @@ This project utilizes a different approach, melding these two technologies more 
 * Increased development speed: Reduce time spent fighting the framework by using Django and Vue where each excels
 * Increased performance: Leverage Django's powerful caching backend to deliver content-rich pages quickly with little or no Javascript, while deferring complex and interactive Vue functionality until after page load
 
+Note: For informationa about integration with Vue 3, see https://github.com/ilikerobots/cookiecutter-vue-django/issues/13#issuecomment-791915473
+
 Features
 ---------
 
