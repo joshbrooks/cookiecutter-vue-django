@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/cookiecutter-vue-django](https://github.com/joshbrooks/cookiecutter-vue-django)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/04/24 <br/>Report generated|
+|14<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
