@@ -3,18 +3,18 @@
 ## Tech Stack
 joshbrooks/cookiecutter-vue-django is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Traefik](https://traefik.io/) – Load Balancer / Reverse Proxy
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
 - [pytest](http://pytest.org/latest/) – Testing Frameworks
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Traefik](https://traefik.io/) – Load Balancer / Reverse Proxy
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -24,18 +24,18 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 joshbrooks/cookiecutter-vue-django is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png' alt='Traefik'/> [Traefik](https://traefik.io/) – Load Balancer / Reverse Proxy
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png' alt='Traefik'/> [Traefik](https://traefik.io/) – Load Balancer / Reverse Proxy
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/cookiecutter-vue-django](https://github.com/joshbrooks/cookiecutter-vue-django)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/05/24 <br/>Report generated|
+|14<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
